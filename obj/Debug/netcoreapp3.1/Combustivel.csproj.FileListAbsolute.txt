@@ -1,0 +1,13 @@
+C:\dev\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.exe
+C:\dev\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.deps.json
+C:\dev\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.runtimeconfig.json
+C:\dev\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.runtimeconfig.dev.json
+C:\dev\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.dll
+C:\dev\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.pdb
+C:\dev\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.csprojAssemblyReference.cache
+C:\dev\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.AssemblyInfoInputs.cache
+C:\dev\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.AssemblyInfo.cs
+C:\dev\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.csproj.CoreCompileInputs.cache
+C:\dev\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.dll
+C:\dev\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.pdb
+C:\dev\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.genruntimeconfig.cache
